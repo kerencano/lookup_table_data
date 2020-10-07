@@ -1,0 +1,292 @@
+COUNTRY_NAME,COUNTRY_CD,CONTINENT_CD,MAIN_REGION,SUB_REGION,IATA_ZONE
+Afghanistan,AF,AS,Asia Pacific,South Asia,IATA 3
+Aland,AX,EU,Europe,North Europe,IATA 2
+Albania,AL,EU,Europe,South Europe,IATA 2
+Algeria,DZ,AF,Africa,North Africa,IATA 2
+American Samoa,AS,OC,Asia Pacific,Oceania,IATA 3
+Angola,AO,AF,Africa,Middle Africa,IATA 2
+Anguilla,AI,NA,Latin America,Caribbean,IATA 1
+Antarctica,AQ,AQ,Antarctica,Antarctica,~
+Antigua & Barbuda,AG,NA,Latin America,Caribbean,IATA 1
+Antigua and Barbuda,AG,NA,Latin America,Caribbean,IATA 1
+Argentina,AR,SA,Latin America,South America,IATA 1
+Armenia,AM,AS,Europe,West Asia,IATA 2
+Aruba,AW,NA,Latin America,Caribbean,IATA 1
+Australia,AU,OC,Asia Pacific,Oceania,IATA 3
+Austria,AT,EU,Europe,West Europe,IATA 2
+Azerbaijan,AZ,AS,Europe,West Asia,IATA 2
+Bahamas,BS,NA,Latin America,Caribbean,IATA 1
+Bahrain,BH,AS,Middle East,West Asia,IATA 2
+Bangladesh,BD,AS,Asia Pacific,South Asia,IATA 3
+Barbados,BB,NA,Latin America,Caribbean,IATA 1
+Belarus,BY,EU,Europe,East Europe,IATA 2
+Belgium,BE,EU,Europe,West Europe,IATA 2
+Belize,BZ,NA,Latin America,Central America,IATA 1
+Benin,BJ,AF,Africa,West Africa,IATA 2
+Bermuda,BM,NA,Latin America,Caribbean,IATA 1
+Bhutan,BT,AS,Asia Pacific,South Asia,IATA 3
+Bolivia,BO,SA,Latin America,South America,IATA 1
+"Bolivia, Plurinational State of",BO,SA,Latin America,South America,IATA 1
+"Bonaire, Sint Eustatius and Saba",BQ,NA,Latin America,Caribbean,IATA 1
+Bosnia and Herzegovina,BA,EU,Europe,South Europe,IATA 2
+Bosnia-Herzegovina,BA,EU,Europe,South Europe,IATA 2
+Botswana,BW,AF,Africa,Southern Africa,IATA 2
+Brazil,BR,SA,Latin America,South America,IATA 1
+British Virgin Islands,VG,NA,Latin America,Caribbean,IATA 1
+Brunei,BN,AS,Asia Pacific,East Asia,IATA 3
+Brunei Darussalam,BN,AS,Asia Pacific,East Asia,IATA 3
+Bulgaria,BG,EU,Europe,East Europe,IATA 2
+Burkina Faso,BF,AF,Africa,West Africa,IATA 2
+Burundi,BI,AF,Africa,East Africa,IATA 2
+Cabo Verde,CV,AF,Africa,West Africa,IATA 2
+Cambodia,KH,AS,Asia Pacific,East Asia,IATA 3
+Cameroon,CM,AF,Africa,Middle Africa,IATA 2
+Canada,CA,NA,North America,Canada,IATA 1
+Cape Verde,CV,AF,Africa,West Africa,IATA 2
+Cape Verde Islands,CV,AF,Africa,West Africa,IATA 2
+Caribbean Netherlands,BQ,NA,Latin America,Caribbean,IATA 1
+Cayman Islands,KY,NA,Latin America,Caribbean,IATA 1
+Central African Republic,CF,AF,Africa,Middle Africa,IATA 2
+Chad,TD,AF,Africa,Middle Africa,IATA 2
+Chile,CL,SA,Latin America,South America,IATA 1
+China,CN,AS,China,China,IATA 3
+Christmas Island,CX,AS,Asia Pacific,East Asia,IATA 3
+Cocos (Keeling) Islands,CC,AS,Asia Pacific,East Asia,IATA 3
+Colombia,CO,SA,Latin America,South America,IATA 1
+Comoros,KM,AF,Africa,East Africa,IATA 2
+Congo,CG,AF,Africa,Middle Africa,IATA 2
+Congo (Dem. Rep.),CD,AF,Africa,Middle Africa,IATA 2
+Congo (Democratic Republic),CD,AF,Africa,Middle Africa,IATA 2
+Cook Islands,CK,OC,Asia Pacific,Oceania,IATA 3
+Costa Rica,CR,NA,Latin America,Central America,IATA 1
+"Cote d'Ivoire",CI,AF,Africa,West Africa,IATA 2
+Croatia,HR,EU,Europe,South Europe,IATA 2
+Cuba,CU,NA,Latin America,Caribbean,IATA 1
+Curaao,CW,NA,Latin America,Caribbean,IATA 1
+Curacao,CW,NA,Latin America,Caribbean,IATA 1
+Cyprus,CY,AS,Europe,West Asia,IATA 2
+Czech Republic,CZ,EU,Europe,East Europe,IATA 2
+"Democratic People's Republic of Korea",KP,AS,Asia Pacific,East Asia,IATA 3
+Denmark,DK,EU,Europe,North Europe,IATA 2
+Djibouti,DJ,AF,Africa,East Africa,IATA 2
+Dominica,DM,NA,Latin America,Caribbean,IATA 1
+Dominican Republic,DO,NA,Latin America,Caribbean,IATA 1
+"East Germany (Pre Oct ' 90)",~,EU,Europe,West Europe,IATA 2
+East Timor,TL,AS,Asia Pacific,East Asia,IATA 3
+Ecuador,EC,SA,Latin America,South America,IATA 1
+Egypt,EG,AF,Africa,North Africa,IATA 2
+El Salvador,SV,NA,Latin America,Central America,IATA 1
+Equatorial Guinea,GQ,AF,Africa,Middle Africa,IATA 2
+Eritrea,ER,AF,Africa,East Africa,IATA 2
+Estonia,EE,EU,Europe,North Europe,IATA 2
+Ethiopia,ET,AF,Africa,East Africa,IATA 2
+Falkland Islands,FK,SA,Latin America,South America,IATA 1
+Faroe Islands,FO,EU,Europe,North Europe,IATA 2
+Fiji,FJ,OC,Asia Pacific,Oceania,IATA 3
+Finland,FI,EU,Europe,North Europe,IATA 2
+France,FR,EU,Europe,West Europe,IATA 2
+French Guiana,GF,SA,Latin America,South America,IATA 1
+French Polynesia,PF,OC,Asia Pacific,Oceania,IATA 3
+Gabon,GA,AF,Africa,Middle Africa,IATA 2
+Gambia,GM,AF,Africa,West Africa,IATA 2
+Georgia,GE,AS,Europe,West Asia,IATA 2
+Germany,DE,EU,Europe,West Europe,IATA 2
+Ghana,GH,AF,Africa,West Africa,IATA 2
+Gibraltar,GI,EU,Europe,South Europe,IATA 2
+Greece,GR,EU,Europe,South Europe,IATA 2
+Greenland,GL,NA,Europe,Canada,IATA 2
+Grenada,GD,NA,Latin America,Caribbean,IATA 1
+Guadeloupe,GP,NA,Latin America,Caribbean,IATA 1
+Guam,GU,OC,Asia Pacific,Oceania,IATA 3
+Guatemala,GT,NA,Latin America,Central America,IATA 1
+Guernsey,GG,EU,Europe,North Europe,IATA 2
+Guinea,GN,AF,Africa,West Africa,IATA 2
+Guinea-Bissau,GW,AF,Africa,West Africa,IATA 2
+Guyana,GY,SA,Latin America,South America,IATA 1
+Haiti,HT,NA,Latin America,Caribbean,IATA 1
+Honduras,HN,NA,Latin America,Central America,IATA 1
+Hong Kong,HK,AS,Asia Pacific,East Asia,IATA 3
+Hungary,HU,EU,Europe,East Europe,IATA 2
+Iceland,IS,EU,Europe,North Europe,IATA 2
+India,IN,AS,Asia Pacific,India,IATA 3
+Indonesia,ID,AS,Asia Pacific,East Asia,IATA 3
+Iran,IR,AS,Middle East,South Asia,IATA 2
+"Iran, Islamic Republic of",IR,AS,Middle East,South Asia,IATA 2
+Iraq,IQ,AS,Middle East,West Asia,IATA 2
+Ireland,IE,EU,Europe,North Europe,IATA 2
+Isle of Man,IM,EU,Europe,North Europe,IATA 2
+Israel,IL,AS,Middle East,West Asia,IATA 2
+Italy,IT,EU,Europe,South Europe,IATA 2
+Ivory Coast,CI,AF,Africa,West Africa,IATA 2
+Jamaica,JM,NA,Latin America,Caribbean,IATA 1
+Japan,JP,AS,Asia Pacific,East Asia,IATA 3
+Jersey,JE,EU,Europe,North Europe,IATA 2
+Jordan,JO,AS,Middle East,West Asia,IATA 2
+Kazakhstan,KZ,AS,Asia Pacific,Central Asia,IATA 3
+Kenya,KE,AF,Africa,East Africa,IATA 2
+Kiribati,KI,OC,Asia Pacific,Oceania,IATA 3
+"Korea, Democratic People's Republic of",KP,AS,Asia Pacific,East Asia,IATA 3
+"Korea, Republic of",KR,AS,Asia Pacific,East Asia,IATA 3
+Kuwait,KW,AS,Middle East,West Asia,IATA 2
+Kyrgyzstan,KG,AS,Asia Pacific,Central Asia,IATA 3
+"Lao People's Democratic Republic",LA,AS,Asia Pacific,East Asia,IATA 3
+Laos,LA,AS,Asia Pacific,East Asia,IATA 3
+Latvia,LV,EU,Europe,North Europe,IATA 2
+Lebanon,LB,AS,Middle East,West Asia,IATA 2
+Lesotho,LS,AF,Africa,Southern Africa,IATA 2
+Liberia,LR,AF,Africa,West Africa,IATA 2
+Libya,LY,AF,Africa,North Africa,IATA 2
+Liechtenstein,LI,EU,Europe,West Europe,IATA 2
+Lithuania,LT,EU,Europe,North Europe,IATA 2
+Luxembourg,LU,EU,Europe,West Europe,IATA 2
+Macao,MO,AS,Asia Pacific,East Asia,IATA 3
+Macau,MO,AS,Asia Pacific,East Asia,IATA 3
+Macedonia,MK,EU,Europe,South Europe,IATA 2
+Macedonia (FYROM),MK,EU,Europe,South Europe,IATA 2
+"Macedonia, the former Yugoslav Republic of",MK,EU,Europe,South Europe,IATA 2
+Madagascar,MG,AF,Africa,East Africa,IATA 2
+Malawi,MW,AF,Africa,East Africa,IATA 2
+Malaysia,MY,AS,Asia Pacific,East Asia,IATA 3
+Maldives,MV,AS,Asia Pacific,South Asia,IATA 3
+Mali,ML,AF,Africa,West Africa,IATA 2
+Malta,MT,EU,Europe,South Europe,IATA 2
+Marshall Islands,MH,OC,Asia Pacific,Oceania,IATA 3
+Martinique,MQ,NA,Latin America,Caribbean,IATA 1
+Mauritania,MR,AF,Africa,West Africa,IATA 2
+Mauritius,MU,AF,Africa,East Africa,IATA 2
+Mayotte,YT,AF,Africa,East Africa,IATA 2
+Mexico,MX,NA,Latin America,Mexico,IATA 1
+Micronesia,FM,OC,Asia Pacific,Oceania,IATA 3
+"Micronesia, Federated States of",FM,OC,Asia Pacific,Oceania,IATA 3
+Moldova,MD,EU,Europe,East Europe,IATA 2
+"Moldova, Republic of",MD,EU,Europe,East Europe,IATA 2
+Monaco,MC,EU,Europe,West Europe,IATA 2
+Mongolia,MN,AS,Asia Pacific,East Asia,IATA 3
+Montenegro,ME,EU,Europe,South Europe,IATA 2
+Montserrat,MS,NA,Latin America,Caribbean,IATA 1
+Morocco,MA,AF,Africa,North Africa,IATA 2
+Mozambique,MZ,AF,Africa,East Africa,IATA 2
+Myanmar,MM,AS,Asia Pacific,East Asia,IATA 3
+Namibia,NA,AF,Africa,Southern Africa,IATA 2
+Nauru,NR,OC,Asia Pacific,Oceania,IATA 3
+Nepal,NP,AS,Asia Pacific,East Asia,IATA 3
+Netherlands,NL,EU,Europe,West Europe,IATA 2
+Netherlands Antilles,AN,NA,Latin America,Caribbean,IATA 1
+New Caledonia,NC,OC,Asia Pacific,Oceania,IATA 3
+New Zealand,NZ,OC,Asia Pacific,Oceania,IATA 3
+Nicaragua,NI,NA,Latin America,Central America,IATA 1
+Niger,NE,AF,Africa,West Africa,IATA 2
+Nigeria,NG,AF,Africa,West Africa,IATA 2
+Niue,NU,OC,Asia Pacific,Oceania,IATA 3
+Norfolk Island,NF,OC,Asia Pacific,Oceania,IATA 3
+North Macedonia,MK,EU,Europe,South Europe,IATA 2
+Northern Mariana Islands,MP,OC,Asia Pacific,Oceania,IATA 3
+Norway,NO,EU,Europe,North Europe,IATA 2
+Oman,OM,AS,Middle East,West Asia,IATA 2
+Pakistan,PK,AS,Asia Pacific,South Asia,IATA 3
+Palau,PW,OC,Asia Pacific,Oceania,IATA 3
+Palestine,PS,AS,Middle East,West Asia,IATA 2
+"Palestine, State of",PS,AS,Middle East,West Asia,IATA 2
+"Palestinian Territory, Occupied",PS,AS,Middle East,West Asia,IATA 2
+Panama,PA,NA,Latin America,Central America,IATA 1
+Papua New Guinea,PG,OC,Asia Pacific,Oceania,IATA 3
+Paraguay,PY,SA,Latin America,South America,IATA 1
+Peru,PE,SA,Latin America,South America,IATA 1
+Philippines,PH,AS,Asia Pacific,East Asia,IATA 3
+Poland,PL,EU,Europe,East Europe,IATA 2
+Portugal,PT,EU,Europe,South Europe,IATA 2
+Puerto Rico,PR,NA,Latin America,Caribbean,IATA 1
+Qatar,QA,AS,Middle East,West Asia,IATA 2
+Republic of China Taiwan,TW,AS,Asia Pacific,East Asia,IATA 3
+Republic of Korea,KR,AS,Asia Pacific,East Asia,IATA 3
+Republic of Moldova,MD,EU,Europe,East Europe,IATA 2
+Republic of Serbia,RS,EU,Europe,South Europe,IATA 2
+Republic of Yemen,YE,AS,Middle East,West Asia,IATA 2
+Reunion,RE,AF,Africa,East Africa,IATA 2
+Romania,RO,EU,Europe,East Europe,IATA 2
+Runion,RE,AF,Africa,East Africa,IATA 2
+Russia,RU,EU,Europe,Russia,IATA 2
+Russian Federation,RU,EU,Europe,Russia,IATA 2
+Rwanda,RW,AF,Africa,East Africa,IATA 2
+Saint Barthlemy,BL,NA,Latin America,Caribbean,IATA 1
+Saint Kitts and Nevis,KN,NA,Latin America,Caribbean,IATA 1
+Saint Lucia,LC,NA,Latin America,Caribbean,IATA 1
+Saint Maarten,SX,NA,Latin America,Caribbean,IATA 1
+Saint Martin,MF,NA,Latin America,Caribbean,IATA 1
+Saint Martin (French part),MF,NA,Latin America,Caribbean,IATA 1
+Saint Pierre and Miquelon,PM,NA,Latin America,Caribbean,IATA 1
+Saint Vincent and the Grenadines,VC,NA,Latin America,Caribbean,IATA 1
+Samoa,WS,OC,Asia Pacific,Oceania,IATA 3
+San Marino,SM,EU,Europe,South Europe,IATA 2
+Sao Tome,ST,AF,Africa,Middle Africa,IATA 2
+Sao Tome and Principe,ST,AF,Africa,Middle Africa,IATA 2
+Saudi Arabia,SA,AS,Middle East,West Asia,IATA 2
+Senegal,SN,AF,Africa,West Africa,IATA 2
+Serbia,RS,EU,Europe,South Europe,IATA 2
+Seychelles,SC,AF,Africa,East Africa,IATA 2
+Sierra Leone,SL,AF,Africa,West Africa,IATA 2
+Singapore,SG,AS,Asia Pacific,East Asia,IATA 3
+Sint Maarten,SX,NA,Latin America,Caribbean,IATA 1
+Slovakia,SK,EU,Europe,East Europe,IATA 2
+Slovenia,SI,EU,Europe,South Europe,IATA 2
+Solomon Islands,SB,OC,Asia Pacific,Oceania,IATA 3
+Somalia,SO,AF,Africa,East Africa,IATA 2
+South Africa,ZA,AF,Africa,Southern Africa,IATA 2
+South Korea,KR,AS,Asia Pacific,East Asia,IATA 3
+South Sudan,SS,AF,Africa,East Africa,IATA 2
+"South Yemen (Pre May '90)",~,AS,Middle East,West Asia,IATA 2
+Soviet Union,~,EU,Europe,~,IATA 2
+Spain,ES,EU,Europe,South Europe,IATA 2
+Spain and Canary Islands,ES,EU,Europe,South Europe,IATA 2
+Sri Lanka,LK,AS,Asia Pacific,South Asia,IATA 3
+St. Helena,SH,NA,Latin America,Caribbean,IATA 1
+St. Kitts and Nevis,KN,NA,Latin America,Caribbean,IATA 1
+St. Pierre and Miquelon,PM,NA,Latin America,Caribbean,IATA 1
+St. Vincent and the Grenadines,VC,NA,Latin America,Caribbean,IATA 1
+Sudan,SD,AF,Africa,North Africa,IATA 2
+Suriname,SR,SA,Latin America,South America,IATA 1
+Svalbard & Jan Mayen Island,SJ,EU,Europe,North Europe,IATA 2
+Swaziland,SZ,AF,Africa,Southern Africa,IATA 2
+Sweden,SE,EU,Europe,North Europe,IATA 2
+Switzerland,CH,EU,Europe,West Europe,IATA 2
+Syria,SY,AS,Middle East,West Asia,IATA 2
+Syrian Arab Republic,SY,AS,Middle East,West Asia,IATA 2
+Taiwan,TW,AS,Asia Pacific,East Asia,IATA 3
+Tajikistan,TJ,AS,Asia Pacific,Central Asia,IATA 3
+Tanzania,TZ,AF,Africa,East Africa,IATA 2
+"Tanzania, United Republic of",TZ,AF,Africa,East Africa,IATA 2
+Thailand,TH,AS,Asia Pacific,East Asia,IATA 3
+The Democratic Republic of The Congo,CD,AF,Africa,Middle Africa,IATA 2
+Togo,TG,AF,Africa,West Africa,IATA 2
+Tonga,TO,OC,Asia Pacific,Oceania,IATA 3
+Trinidad & Tobago,TT,NA,Latin America,Caribbean,IATA 1
+Trinidad and Tobago,TT,NA,Latin America,Caribbean,IATA 1
+Tunisia,TN,AF,Africa,North Africa,IATA 2
+Turkey,TR,EU,Europe,East Europe,IATA 2
+Turkmenistan,TM,AS,Asia Pacific,Central Asia,IATA 3
+Turks and Caicos Islands,TC,NA,Latin America,Caribbean,IATA 1
+Tuvalu,TV,OC,Asia Pacific,Oceania,IATA 3
+U.S. Virgin Islands,VI,NA,Latin America,Caribbean,IATA 1
+Uganda,UG,AF,Africa,East Africa,IATA 2
+Ukraine,UA,EU,Europe,East Europe,IATA 2
+United Arab Emirates,AE,AS,Middle East,West Asia,IATA 2
+United Kingdom,GB,EU,Europe,North Europe,IATA 2
+United Republic of Tanzania,TZ,AF,Africa,East Africa,IATA 2
+United States,US,NA,North America,United States,IATA 1
+Unknown African Country,~,AF,Africa,~,IATA 2
+Uruguay,UY,SA,Latin America,South America,IATA 1
+US Minor Outlying Islands,UM,OC,Asia Pacific,Oceania,IATA 3
+US Virgin Islands,VI,NA,Latin America,Caribbean,IATA 1
+Uzbekistan,UZ,AS,Asia Pacific,Central Asia,IATA 3
+Vanuatu,VU,OC,Asia Pacific,Oceania,IATA 3
+Venezuela,VE,SA,Latin America,South America,IATA 1
+"Venezuela, Bolivarian Republic of",VE,SA,Latin America,South America,IATA 1
+Viet Nam,VN,AS,Asia Pacific,East Asia,IATA 3
+Vietnam,VN,AS,Asia Pacific,East Asia,IATA 3
+"Virgin Islands, British",VG,NA,Latin America,Caribbean,IATA 1
+Wallis and Futuna Islands,WF,OC,Asia Pacific,Oceania,IATA 3
+Yemen,YE,AS,Middle East,West Asia,IATA 2
+Yemen Republic,YE,AS,Middle East,West Asia,IATA 2
+Yugoslavia,~,EU,Europe,South Europe,IATA 2
+Zambia,ZM,AF,Africa,East Africa,IATA 2
+Zimbabwe,ZW,AF,Africa,East Africa,IATA 2

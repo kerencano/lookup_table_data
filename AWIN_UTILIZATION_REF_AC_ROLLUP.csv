@@ -1,0 +1,240 @@
+AC_TYPE_CODE,AC_PLATFORM_FAMILY,AC_PLATFORM,AC_TYPE,AC_VARIANT,AC_CATEGORY,AC_CLASS,AM_INCLUDE,AC_MANUFACTURER,AC_WARRANTY_PERIOD
+3200,EMB110,EMB-110/120,EMB-110,EMB-110,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Embraer,3
+3215,EMB110,EMB-110/120,EMB-110P1/110P2/111A,EMB-110,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Embraer,3
+3244,DHC6,DHC-6,DHC-6-400 Twin Otter,DHC-6-400,Commercial Propeller,Turboprop Aircraft (Non-Business),0,Viking Air,3
+3500,EMB120,EMB-110/120,EMB-120 Brasilia,EMB-120,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Embraer,3
+3505,EMB120,EMB-110/120,EMB-120FC Brasilia Frtr.,EMB-120,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Embraer,3
+3630,DHC8,DHC-8-1/2/300,DHC-8-100,DHC-8-100,Commercial Propeller,Turboprop Aircraft (Non-Business),1,de Havilland Canada,3
+3631,DHC8,DHC-8-1/2/300,DHC-8-100(PF),DHC-8-100,Commercial Propeller,Turboprop Aircraft (Non-Business),1,de Havilland Canada,3
+3635,DHC8,DHC-8-1/2/300,DHC-8-200,DHC-8-200,Commercial Propeller,Turboprop Aircraft (Non-Business),1,de Havilland Canada,3
+3640,DHC8,DHC-8-1/2/300,DHC-8-300,DHC-8-300,Commercial Propeller,Turboprop Aircraft (Non-Business),1,de Havilland Canada,3
+3641,DHC8,DHC-8-1/2/300,DHC-8-300(F)/(PF),DHC-8-300,Commercial Propeller,Turboprop Aircraft (Non-Business),1,de Havilland Canada,3
+3650,DHC8,DHC-8-Q400,DHC-8-400,DHC-8-400 (Q400),Commercial Propeller,Turboprop Aircraft (Non-Business),1,Bombardier,3
+3651,DHC8,DHC-8-Q400,DHC-8-400PF,DHC-8-400,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Bombardier,3
+3721,ATR,ATR 42,ATR 42-200,ATR 42 200,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3722,ATR,ATR 42,ATR 42-300/320,ATR 42 300,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3725,ATR,ATR 42,ATR 42-300F/320F,ATR 42 300,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3728,ATR,ATR 42,ATR 42-400/400MP,ATR 42 400,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3729,ATR,ATR 42,ATR 42-500,ATR 42 500,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3730,ATR,ATR 42,ATR 42-600,ATR 42 600,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3732,ATR,ATR 72,ATR 72-100/200,ATR 72 200,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3735,ATR,ATR 72,ATR 72-500 (72-212A),ATR 72 500,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3736,ATR,ATR 72,ATR 72-600 (72-212A),ATR 72 600,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3737,ATR,ATR 72,ATR 72F,ATR72F,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3738,ATR,ATR 72,ATR 72-500 (72-212A),ATR 72 500,Commercial Propeller,Turboprop Aircraft (Non-Business),1,ATR,4
+3815,Y7,MA60/600,Y7-200A/Y7-G//MA60/MA600,MA60 / 600,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Xian Aircraft Industry Company,4
+3870,MA700,MA700,MA700,MA700,Commercial Propeller,Turboprop Aircraft (Non-Business),1,Xian Aircraft Industry Company,4
+4220,DHC7,DHC-7,DHC-7-100,DHC-7-100,Commercial Propeller,Turboprop Aircraft (Non-Business),0,de Havilland Canada,3
+6021,CRJ,CRJ 1/200,CRJ100/200/440,CRJ100,Commercial Jet,Regional Jet,1,Canadair,3
+6022,CRJ,CRJ 1/200,CRJ200SF,CRJ200,Commercial Jet,Regional Jet,1,Canadair,3
+6025,CRJ,CRJ 7/9/1000,CRJ701/702,CRJ700,Commercial Jet,Regional Jet,1,Bombardier,3
+6026,CRJ,CRJ 7/9/1000,CRJ701/702SF,CRJ700,Commercial Jet,Regional Jet,1,Bombardier,3
+6029,CRJ,CRJ 7/9/1000,NULL,CRJ705,Commercial Jet,Regional Jet,1,Bombardier,3
+6033,CRJ,CRJ 7/9/1000,CRJ900,CRJ900,Commercial Jet,Regional Jet,1,Bombardier,3
+6037,CRJ,CRJ 7/9/1000,CRJ1000,CRJ1000,Commercial Jet,Regional Jet,1,Bombardier,3
+6040,E-Jet,ERJ-135/140/145,ERJ 135/ER/LR,ERJ-135,Commercial Jet,Regional Jet,1,Embraer,3
+6043,E-Jet,ERJ-135/140/145,ERJ 140 (EMB-135KE/KL),ERJ-140,Commercial Jet,Regional Jet,1,Embraer,3
+6045,E-Jet,ERJ-135/140/145,ERJ 145 (EMB-145),ERJ-145,Commercial Jet,Regional Jet,1,Embraer,3
+6046,E-Jet,ERJ-135/140/145,ERJ 145(F) (EMB-145(F)),ERJ-145,Commercial Jet,Regional Jet,1,Embraer,3
+6050,E-Jet,ERJ 170/190,Embraer 170,E170,Commercial Jet,Regional Jet,1,Embraer,3
+6052,E-Jet,ERJ 170/190,Embraer 175,E175,Commercial Jet,Regional Jet,1,Embraer,3
+6053,E-Jet,ERJ 170/190 E2,Embraer 175-E2,E175 E2,Commercial Jet,Regional Jet,1,Embraer,3
+6055,E-Jet,ERJ 170/190,Embraer 190,E190,Commercial Jet,Regional Jet,1,Embraer,3
+6056,E-Jet,ERJ 170/190 E2,Embraer 190-E2,E190 E2,Commercial Jet,Regional Jet,1,Embraer,3
+6057,E-Jet,ERJ 170/190,Embraer 195,E195,Commercial Jet,Regional Jet,1,Embraer,3
+6058,E-Jet,ERJ 170/190 E2,Embraer 195-E2,E195 E2,Commercial Jet,Regional Jet,1,Embraer,3
+6059,E-Jet,ERJ 170/190,Embraer 190 Lineage,EMBRAER LINEAGE 1000 (ERJ 190-100 ECJ),Commercial Jet,Regional Jet,1,Embraer,3
+6107,ARJ21,ARJ21,ARJ21,ARJ21-700,Commercial Jet,Regional Jet,1,COMAC,4
+6174,MRJ,MRJ,MRJ90,MRJ90,Commercial Jet,Regional Jet,1,Mitsubishi,4
+6210,DC9,DC-9,DC-9-10,DC-9-10,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+6211,DC9,DC-9,DC-9-10 Stage 3 Hushkit,DC-9-10,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+6215,DC9,DC-9,DC-9-10F,DC-9-10,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6216,DC9,DC-9,DC-9-10F Stage 3 Hushkit,DC-9-10,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+6220,DC9,DC-9,DC-9-20,DC-9-20,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6221,DC9,DC-9,DC-9-20 Stage 3 Hushkit,DC-9-20,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6230,DC9,DC-9,DC-9-30,DC-9-30,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+6231,DC9,DC-9,DC-9-30 Stage 3 Hushkit,DC-9-30,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6235,DC9,DC-9,DC-9-30F,DC-9-30,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6236,DC9,DC-9,DC-9-30F Stage 3 Hushkit,DC-9-30,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6240,DC9,DC-9,DC-9-40,DC-9-40,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6241,DC9,DC-9,DC-9-40 Stage 3 Hushkit,DC-9-40,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6250,DC9,DC-9,DC-9-50,DC-9-50,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6251,DC9,DC-9,DC-9-50 Stage 3 Hushkit,DC-9-50,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6261,DC9,MD-80,MD-81 (DC-9-81),DC-9-80,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6262,DC9,MD-80,MD-82 (DC-9-82),DC-9-80,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6263,DC9,MD-80,MD-83 (DC-9-83),DC-9-80,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6265,DC9,MD-80,MD-82F (DC-9-82F),DC-9-80,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6266,DC9,MD-80,MD-83F (DC-9-83F),DC-9-80,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6267,DC9,MD-80,MD-87 (DC-9-87),DC-9-80,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6268,DC9,MD-80,MD-88,MD-88,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6274,DC9,MD-90,MD-90-30,MD-90-30,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+6320,B717,717,717-200,717-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6335,SSJ,Superjet 100,SSJ 100-95,SUPERJET 100 95,Commercial Jet,Regional Jet,1,Sukhoi,4
+6350,MC21,MC-21,MC-21-200,MC-21-200,Commercial Jet,Narrowbody Jet,1,Irkut,4
+6353,MC21,MC-21,MC-21-300,MC-21-300,Commercial Jet,Narrowbody Jet,1,Irkut,4
+6360,A220,A220,A220-100,A220-100,Commercial Jet,Narrowbody Jet,1,Bombardier,3
+6370,A220,A220,A220-300,A220-300,Commercial Jet,Narrowbody Jet,1,Bombardier,3
+6410,B737,737 Original,737-100,737-100,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6420,B737,737 Original,737-200,737-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6421,B737,737 Original,737-200 Stage 3,737-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6425,B737,737 Original,737-200C/-200F,737-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6426,B737,737 Original,737-200C/-200F Stage 3,737-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6430,B737,737 Classic,737-300,737-300,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6435,B737,737 Classic,737-300F,737-300,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6440,B737,737 Classic,737-400,737-400,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6445,B737,737 Classic,737-400F,737-400,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6450,B737,737 Classic,737-500,737-500,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6460,B737,737 NG,737-600,737-600,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6470,B737,737 NG,737-700,737-700,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6475,B737,737 NG,737-700C,737-700,Business Jet,Narrowbody Jet,1,Boeing,4
+6480,B737,737 NG,737-800,737-800,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6485,B737,737 NG,737-800F,737-800,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6488,B737,737 NG/P8,737-800/P-8A,737-800/P-8A,Commercial Jet,Narrowbody Jet,0,Boeing,4
+6488,B737,B737,P-8A,P-8A,Commercial Jet,Narrowbody Jet,0,Boeing,4
+6490,B737,737 NG,737-900,737-900,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6492,B737,737 NG,737-900ER,737-900,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6500,A320,A320CEO,A318-100,A318,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6510,A320,A320CEO,A319-100,A319,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6518,A320,A320NEO,A319-100N,A319NEO,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6520,A320,A320CEO,A320-100,A320,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6525,A320,A320CEO,A320-200,A320,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6528,A320,A320NEO,A320-200N,A320NEO,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6530,A320,A320CEO,A321-100,A321,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6535,A320,A320CEO,A321-200,A321,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6538,A320,A320NEO,A321-200N,A321NEO,Commercial Jet,Narrowbody Jet,1,Airbus,3
+6570,B737,737 MAX,737 Max 7,737 MAX 7,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6580,B737,737 MAX,737 Max 8,737 MAX 8,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6590,B737,737 MAX,737 Max 9,737 MAX 9,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6600,B737,737 MAX,737 Max 10,737 MAX 10,Commercial Jet,Narrowbody Jet,1,Boeing,4
+6750,B757,757,757-200,757-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6755,B757,757,757-200C/-200PF/-200C,757-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6760,B757,757,757-300,757-300,Commercial Jet,Narrowbody Jet,1,Boeing,3
+6780,B787,787,787-8,787-8,Commercial Jet,Widebody Jet,1,Boeing,4
+6790,B787,787,787-9,787-9,Commercial Jet,Widebody Jet,1,Boeing,4
+6800,B787,787,787-10,787-10,Commercial Jet,Widebody Jet,1,Boeing,4
+6830,A310,A310,A310-200,A310,Commercial Jet,Widebody Jet,1,Airbus,3
+6833,A310,A310,A310-200C/-200F,A310,Commercial Jet,Widebody Jet,1,Airbus,3
+6836,A310,A310,A310-300,A310,Commercial Jet,Widebody Jet,1,Airbus,3
+6838,A310,A310,A310-300F,A310,Commercial Jet,Widebody Jet,1,Airbus,3
+6839,A300,A300,A300B1,A300,Commercial Jet,Widebody Jet,1,Airbus,3
+6840,A300,A300,A300B2,A300,Commercial Jet,Widebody Jet,1,Airbus,3
+6845,A300,A300,A300B4-100/-200,A300,Commercial Jet,Widebody Jet,1,Airbus,3
+6846,A300,A300,A300B4-100F/-200F,A300,Commercial Jet,Widebody Jet,1,Airbus,3
+6850,A300,A300-600,A300B4-600,A300-600,Commercial Jet,Widebody Jet,1,Airbus,3
+6851,A300,A300-600,A300C4-600/F4-600,A300-600,Commercial Jet,Widebody Jet,1,Airbus,3
+6852,A300,A300-600,A300B4-600R,A300-600,Commercial Jet,Widebody Jet,1,Airbus,3
+6853,A300,A300-600,A300C4-600R/F4-600R,A300-600,Commercial Jet,Widebody Jet,1,Airbus,3
+6854,A300,A300-600,A300F4-600ST Beluga,A300-600,Commercial Jet,Widebody Jet,1,Airbus,3
+6860,A330,A330CEO,A330-200,A330-200,Commercial Jet,Widebody Jet,1,Airbus,3
+6861,A330,A330CEO/ACJ,ACJ330-200,A330-200,Commercial Jet,Widebody Jet,0,Airbus,3
+6862,A330,A330CEO,A330-200F,A330-200F,Commercial Jet,Widebody Jet,1,Airbus,3
+6864,A330,A330NEO,A330-800,A330-800F,Commercial Jet,Widebody Jet,1,Airbus,3
+6864,A330,A330NEO,A330-800,A330-800,Commercial Jet,Widebody Jet,1,Airbus,3
+6865,A330,A330CEO,A330-300,A330-300,Commercial Jet,Widebody Jet,1,Airbus,3
+6867,A330,A330CEO,A330-300F,A330-300F,Commercial Jet,Widebody Jet,1,Airbus,3
+6868,A330,A330NEO,A330-900,A330-900,Commercial Jet,Widebody Jet,1,Airbus,3
+6870,A350,A350,A350-800 [non-XWB],A350-800,Commercial Jet,Widebody Jet,1,Airbus,4
+6871,A350,A350,A350-800,A350-800,Commercial Jet,Widebody Jet,1,Airbus,4
+6872,A350,A350/ACJ,ACJ350-800,A350-800,Commercial Jet,Widebody Jet,0,Airbus,4
+6874,A350,A350,A350-900 [non-XWB],A350-900,Commercial Jet,Widebody Jet,1,Airbus,4
+6875,A350,A350,A350-900,A350-900,Commercial Jet,Widebody Jet,1,Airbus,4
+6876,A350,A350/ACJ,ACJ350-900,A350-900,Business Jet,Widebody Jet,0,Airbus,4
+6878,A350,A350,A350-1000,A350-1000,Commercial Jet,Widebody Jet,1,Airbus,4
+6880,B767,767-2/300,767-200,767-200,Commercial Jet,Widebody Jet,1,Boeing,3
+6882,B767,767-2/300,767-200ER,767-200,Commercial Jet,Widebody Jet,1,Boeing,3
+6885,B767,767-2/300,767-200F,767F,Commercial Jet,Widebody Jet,1,Boeing,3
+6887,B767,767-2/300,767-200F/ER,767F,Commercial Jet,Widebody Jet,1,Boeing,3
+6890,B767,767-2/300,767-300,767-300,Commercial Jet,Widebody Jet,1,Boeing,3
+6892,B767,767-2/300,767-300ER,767-300,Commercial Jet,Widebody Jet,1,Boeing,3
+6897,B767,767-2/300,767-300F/ER,767F,Commercial Jet,Widebody Jet,1,Boeing,3
+6899,B767,767-2/300,767-200T/KC-46,767-200,Commercial Jet,Widebody Jet,1,Boeing,3
+6899,B767,B767,USAF Tanker KC-46A,USAF Tanker KC-46A,Commercial Jet,Widebody Jet,0,Boeing,3
+6902,B767,767-400,767-400ER,767-400,Commercial Jet,Widebody Jet,1,Boeing,3
+6920,B777,777,777-200,777-200,Commercial Jet,Widebody Jet,1,Boeing,4
+6925,B777,777,777-200ER,777-200,Commercial Jet,Widebody Jet,1,Boeing,4
+6927,B777,777,777-200LR,777-200,Commercial Jet,Widebody Jet,1,Boeing,4
+6928,B777,777,777-200F/LR,777-200F,Commercial Jet,Widebody Jet,1,Boeing,4
+6930,B777,777,777-300,777-300,Commercial Jet,Widebody Jet,1,Boeing,4
+6935,B777,777,777-300ER,777-300,Commercial Jet,Widebody Jet,1,Boeing,4
+6940,B777,777X,777-8,777-8,Commercial Jet,Widebody Jet,1,Boeing,4
+6950,B777,777X,777-9,777-9,Commercial Jet,Widebody Jet,1,Boeing,4
+7350,B727,727,727-100,727-100,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7352,B727,727,727-100 Stage 3,727-100,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7360,B727,727,727-100C/-100F,727-100,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7362,B727,727,727-100C/-100F Stage 3,727-100,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7420,B727,727,727-200,727-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7422,B727,727,727-200 Stage 3,727-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7425,B727,727,727-200F,727-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7427,B727,727,727-200F Stage 3,727-200,Commercial Jet,Narrowbody Jet,1,Boeing,3
+7700,DC10,DC-10,DC-10-10,DC-10-10,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7705,DC10,DC-10,DC-10-10F/CF,DC-10-10,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7710,DC10,DC-10,DC-10-15,DC-10-10,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7720,DC10,DC-10,MD-10-10F,DC-10-10,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7730,DC10,DC-10,DC-10-30,DC-10-30,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7735,DC10,DC-10,DC-10-30F/CF,DC-10-30,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7737,DC10,DC-10,MD-10-30F,DC-10-30,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7740,DC10,DC-10,DC-10-40,DC-10-40,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7745,DC10,DC-10,DC-10-40F,DC-10-40,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7750,DC10,MD-11,MD-11/MD-11ER,MD-11,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+7755,DC10,MD-11,MD-11F/C/CF,MD-11,Commercial Jet,Widebody Jet,1,McDonnell Douglas,3
+8426,DC8,DC-8,DC-8-10,DC-8-10,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8430,DC8,DC-8,DC-8-20,DC-8-20,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8434,DC8,DC-8,DC-8-20F,DC-8-20,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8436,DC8,DC-8,DC-8-30,DC-8-30,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8438,DC8,DC-8,DC-8-30F,DC-8-30,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8440,DC8,DC-8,DC-8-40,DC-8-40,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8443,DC8,DC-8,DC-8-40F,DC-8-40,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8450,DC8,DC-8,DC-8-50,DC-8-50,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8451,DC8,DC-8,DC-8-50 Stage 3 Hushkit,DC-8-50,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8455,DC8,DC-8,DC-8-50F,DC-8-50,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8456,DC8,DC-8,DC-8-50F Stage 3 Hushkit,DC-8-50,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8461,DC8,DC-8,DC-8-61,DC-8-60,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8462,DC8,DC-8,DC-8-61 Stage 3 Hushkit,DC-8-60,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8464,DC8,DC-8,DC-8-61F,DC-8-60,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8465,DC8,DC-8,DC-8-61F Stage 3 Hushkit,DC-8-60,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8475,DC8,DC-8,DC-8-62,DC-8-60,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8476,DC8,DC-8,DC-8-62 Stage 3 Hushkit,DC-8-60,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8480,DC8,DC-8,DC-8-62F,DC-8-60,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8481,DC8,DC-8,DC-8-62F Stage 3 Hushkit,DC-8-60,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8484,DC8,DC-8,DC-8-63,DC-8-60,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8485,DC8,DC-8,DC-8-63 Stage 3 Hushkit,DC-8-60,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8487,DC8,DC-8,DC-8-63F,DC-8-60,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8488,DC8,DC-8,DC-8-63F Stage 3 Hushkit,DC-8-60,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8492,DC8,DC-8,DC-8-71F,DC-8-70,Commercial Jet,Narrowbody Jet,1,Douglas Aircraft,3
+8495,DC8,DC-8,DC-8-72,DC-8-70,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8498,DC8,DC-8,DC-8-72F,DC-8-70,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8515,DC8,DC-8,DC-8-73F,DC-8-70,Commercial Jet,Narrowbody Jet,1,McDonnell Douglas,3
+8640,A340,A340,A340-200,A340-200,Commercial Jet,Widebody Jet,1,Airbus,3
+8641,A340,A340/ACJ,ACJ340-200,A340-200,Commercial Jet,Widebody Jet,0,Airbus,3
+8645,A340,A340,A340-300,A340-300,Commercial Jet,Widebody Jet,1,Airbus,3
+8646,A340,A340/ACJ,ACJ340-300,A340-300,Commercial Jet,Widebody Jet,0,Airbus,3
+8650,A340,A340,A340-500,A340-500,Commercial Jet,Widebody Jet,1,Airbus,3
+8651,A340,A340/ACJ,ACJ340-500,A340-500,Commercial Jet,Widebody Jet,0,Airbus,3
+8660,A340,A340,A340-600,A340-600,Commercial Jet,Widebody Jet,1,Airbus,3
+8661,A340,A340/ACJ,ACJ340-600,A340-600,Commercial Jet,Widebody Jet,0,Airbus,3
+8800,B747,747 Classic,747SP,747SP,Commercial Jet,Widebody Jet,1,Boeing,3
+8807,B747,747 Classic,747SR,747-100,Commercial Jet,Widebody Jet,1,Boeing,3
+8810,B747,747 Classic,747-100,747-100,Commercial Jet,Widebody Jet,1,Boeing,3
+8814,B747,747 Classic,747-100 SCD,747-100,Commercial Jet,Widebody Jet,1,Boeing,3
+8818,B747,747 Classic,747-100B,747-100,Commercial Jet,Widebody Jet,1,Boeing,3
+8822,B747,747 Classic,747-100B/EUD,747-100,Commercial Jet,Widebody Jet,1,Boeing,3
+8825,B747,747 Classic,747SR SCD,747-100,Commercial Jet,Widebody Jet,1,Boeing,3
+8830,B747,747 Classic,747-200B,747-200,Commercial Jet,Widebody Jet,1,Boeing,3
+8833,B747,747 Classic,747-200B/EUD,747-200,Commercial Jet,Widebody Jet,1,Boeing,3
+8836,B747,747 Classic,747-200B SCD,747-200,Commercial Jet,Widebody Jet,1,Boeing,3
+8839,B747,747 Classic,747-200B/EUD/SCD,747-200,Commercial Jet,Widebody Jet,1,Boeing,3
+8845,B747,747 Classic,747-200C,747-200,Commercial Jet,Widebody Jet,1,Boeing,3
+8850,B747,747 Classic,747-200F,747-200,Commercial Jet,Widebody Jet,1,Boeing,3
+8863,B747,747 Classic,747-300,747-300,Commercial Jet,Widebody Jet,1,Boeing,3
+8866,B747,747 Classic,747-300 SCD,747-300,Commercial Jet,Widebody Jet,1,Boeing,3
+8884,B747,747-400,747-400,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8885,B747,747-400,747-400SF,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8886,B747,747-400,747-400ER,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8888,B747,747-400,747-400 SCD/F,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8892,B747,747-400,747-400F,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8894,B747,747-400,747-400ERF,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8898,B747,747-400,747-400LCF,747-400,Commercial Jet,Widebody Jet,1,Boeing,3
+8900,B747,747-8,747-8,747-8,Commercial Jet,Widebody Jet,1,Boeing,4
+8910,B747,747-8,747-8F,747-8F,Commercial Jet,Widebody Jet,1,Boeing,4
+8940,A380,A380,A380-800,A380-800,Commercial Jet,Widebody Jet,1,Airbus,4
+8945,A380,A380,A380-800F,A380-800,Commercial Jet,Widebody Jet,1,Airbus,4
